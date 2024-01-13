@@ -49,9 +49,9 @@ function handleDivision(){
                 </div>
 
             </form>
-            {
+            {/* {
                 result?<p>hi world</p>: <p>helloo world</p>
-            }
+            } */}
         </div>
     )
 }
